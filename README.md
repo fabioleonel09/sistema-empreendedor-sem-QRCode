@@ -1,0 +1,1 @@
+# sistema-empreendedor-sem-QRCode
